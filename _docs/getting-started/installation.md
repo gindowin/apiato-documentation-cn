@@ -1,44 +1,44 @@
 ---
-title: "Installation"
-category: "Getting Started"
+title: "安装"
+category: "入门起步"
 order: 2
 ---
 
-* [A) Apiato Installation](#App)
-	* [1) Code Setup](#Code-Setup)
-		* [Option 1: Automatically via Composer](#App-Composer)
-		* [Option 2: Manually](#App-Git)
-	* [2) Database Setup](#Setup-Database)
-	* [3) OAuth Setup](#Prepare-OAuth)
-	* [4) Documentation Setup](#Documentation)
-	* [5) Testing Setup](#Testing)
-* [B) Environment Setup](#Development-Environment)
-	* [Option 1: Using Docker and Laradock](#Dev-Env-Opt-A)
-	* [Option 2: Using Vagrant and Homestead](#Dev-Env-Opt-B)
-	* [Option 3: Using MAMP/WAMP or something else](#Dev-Env-Opt-C)
+* [A) Apiato 安装](#App)
+	* [1) 代码安装步骤](#Code-Setup)
+		* [Option 1: 通过Composer自动安装](#App-Composer)
+		* [Option 2: 手动安装](#App-Git)
+	* [2) 数据库安装步骤](#Setup-Database)
+	* [3) OAuth安装步骤](#Prepare-OAuth)
+	* [4) 文档安装步骤](#Documentation)
+	* [5) 测试安装步骤](#Testing)
+* [B) 集成环境安装步骤](#Development-Environment)
+	* [Option 1: 使用Docker和Laradock](#Dev-Env-Opt-A)
+	* [Option 2: 使用Vagrant和Homestead](#Dev-Env-Opt-B)
+	* [Option 3: 使用MAMP/WAMP或者其它](#Dev-Env-Opt-C)
 * [C) Play](#Play)
 
 
 <a name="App"></a>
-## A) Apiato Application Installation
+## A) Apiato 安装
 
-**Apiato** can be installed automatically with Composer (recommended) or manually (with Git or direct download):
+**Apiato** 能通过composer自动安装（推荐）或者手动（通过Git或者直接下载）:
 
 <a name="Code-Setup"></a>
-### 1) Code Setup
+### 1) 代码安装步骤
 
 <a name="App-Composer"></a>
-#### 1.A) Automatically via Composer
+#### 1.A) 通过Composer自动安装
 
-1) Clone the repo, install dependencies and setup the project:
+1) Clone仓库源码, 安装依赖:
 
-Option 1: Latest [stable](https://github.com/apiato/apiato/releases/latest):
+选择 1: 最新 [稳定](https://github.com/apiato/apiato/releases/latest):
 
 ```shell
 composer create-project apiato/apiato my-api
 ```
 
-Option 2: On going [development](https://github.com/apiato/apiato/commits/master) branch "dev master" *(unstable)*:
+选择 2: On going [开发](https://github.com/apiato/apiato/commits/master) 分支 "dev master" *(unstable)*:
 *This gives you features from the upcoming releases. But you need to keep syncing your project with the upstream master
 branch and running `composer install` when changes occurs.*
 
@@ -46,7 +46,7 @@ branch and running `composer install` when changes occurs.*
 composer create-project apiato/apiato my-api dev-master
 ```
 
-2) Edit your `.env` variables to match with your environment (Set Database credentials, App URL, ...).
+2) 编辑你的 `.env` 变量去匹配你的环境 (设置数据库, 应用路径, ...).
 
 3) Continue from [2) Database Setup](#Setup-Database) below.
 
