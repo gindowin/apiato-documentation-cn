@@ -1,5 +1,5 @@
 ---
-title: "哈希（非自增）ID"
+title: "哈希 ID"
 category: "功能特性"
 order: 14
 ---
