@@ -1,6 +1,6 @@
 ---
 title: "系统参数设置"
-category: "特性功能"
+category: "功能特性"
 order: 25
 ---
 

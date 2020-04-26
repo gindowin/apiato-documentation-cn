@@ -1,6 +1,6 @@
 ---
 title: "请求频率限制"
-category: "特性功能"
+category: "功能特性"
 order: 16
 ---
 

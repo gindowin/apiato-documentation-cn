@@ -1,6 +1,6 @@
 ---
 title: "用户注册"
-category: "特性功能"
+category: "功能特性"
 order: 5
 ---
 

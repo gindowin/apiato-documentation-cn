@@ -1,6 +1,6 @@
 ---
 title: "API 版本控制"
-category: "特性功能"
+category: "功能特性"
 order: 99
 ---
 

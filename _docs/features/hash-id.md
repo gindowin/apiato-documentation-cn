@@ -1,6 +1,6 @@
 ---
 title: "哈希（非自增）ID"
-category: "特性功能"
+category: "功能特性"
 order: 14
 ---
 
