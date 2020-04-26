@@ -19,7 +19,7 @@ title: "Apiato 中文文档"
 
 ## Apiato 介绍
 
-**Apiato** 是一款基于 PHP 和 Laravel 技术，用于快速构建可扩展并测试，以 API 为中心的应用框架.
+**Apiato** 是一款基于 PHP 和 Laravel 技术，用于快速构建可扩展、可测试并以 API 为核心的应用框架.
 
 It is designed to help you build scalable API's faster, by providing tools and functionalities that facilitates the development of any API-Centric App.
 
@@ -28,13 +28,13 @@ Apiato uses the best frameworks, tools and conventions in a very creative way, t
 **Why!?** Because setting up a solid API from scratch is time consuming (and of course, time is money!).
 Apiato gives you the core features of robust API's fully documented, for free; so you can focus on writing your business logic, thus deliver faster to your clients.
 
-### Features
+### 功能特性
 
 Apiato comes with an amazing list of features.
 
 ![]({{ site.baseurl }}/images/features.png)
 
-## Software Architecture
+## 软件架构
 
 **Apiato** is built using the new architectural pattern **[Porto](https://github.com/Mahmoudz/Porto)**.
 
@@ -45,14 +45,14 @@ Alternatively, you can build it using the [MVC]({{ site.baseurl }}{% link _docs/
 
 
 
-### How to read the docs
+### 快速预览本文档
 
 The documentation has 4 sections:
 
 - **起步**: contains mainly the project installation steps.
-- **General**: contains few general things to get you started.
-- **Features**: explains how to use each feature of Apiato, and show how it works and how it can be configured to meet your needs.
-- **Components**: explains how, where and why you need to use each component "class". In each component page you will see:
+- **常规内容**: contains few general things to get you started.
+- **功能特性**: explains how to use each feature of Apiato, and show how it works and how it can be configured to meet your needs.
+- **组件**: explains how, where and why you need to use each component "class". In each component page you will see:
   * **Definition**: what is the the component and what it's role.
   * **Principles**: the general principles of the component, which could be applied to any programming language.
   * **Rules**: how to apply the component principles in Apiato (a PHP/Laravel project), to ensure a smooth operation.
@@ -61,12 +61,12 @@ The documentation has 4 sections:
   * **Misc**: things related to the component, like configurations and other stuff you might need while coding.
 
 
-### Conventions
+### 约定
 
 > The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 [[RFC2119](http://tools.ietf.org/html/rfc2119)].
 
 <a name="Sponsors"></a>
-## Sponsors
+## 赞助商
 
 <a href="https://opencollective.com/apiato/sponsor/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/sponsor/0/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/apiato/sponsor/1/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/sponsor/1/avatar.svg?requireActive=false"></a>
@@ -127,7 +127,7 @@ For more info contact <a href = "mailto: support@apiato.io">support@apiato.io</a
 
 
 <a name="Backers"></a>
-## Backers
+## 支持者
 
 <a href="https://opencollective.com/apiato/backer/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/backer/0/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/apiato/backer/1/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/backer/1/avatar.svg?requireActive=false"></a>
@@ -181,7 +181,7 @@ For more info contact <a href = "mailto: support@apiato.io">support@apiato.io</a
 <a href="https://opencollective.com/apiato/backer/49/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/backer/49/avatar.svg?requireActive=false"></a>
 
 <a name="Donations"></a>
-### Financial Support
+### 财务支持
 
 Help us sustain the project.
 
@@ -194,7 +194,7 @@ Help us sustain the project.
 <b>Option 4:</b> Become a [Patreon](https://www.patreon.com/zalt).
 
 <a name="Chat"></a>
-### Get in touch with us
+### 联系我们
 
 Join our [Slack](https://slackin-mezlsumyvc.now.sh/) chatting room, by click on the Slack icon below.
 
@@ -212,6 +212,6 @@ Install and have fun :) [installation guide]({{ site.baseurl }}{% link _docs/get
 <!--It offers bug fixes (for 12 months) and security updates (for 12 months). And does not get any new features.-->
 
 <a name="Testimonials"></a>
-## Testimonials
+## 用户评价
 
 > Read the < **[feedbacks]({{ site.baseurl }}{% link _docs/miscellaneous/testimonials.md %})** > of some Apiato users.
