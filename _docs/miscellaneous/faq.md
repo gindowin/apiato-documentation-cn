@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions"
+title: "常见问题"
 category: "常规内容"
 order: 1
 ---

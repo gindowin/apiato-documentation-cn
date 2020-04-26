@@ -1,5 +1,5 @@
 ---
-title: "队列任务"
+title: "任务"
 category: "可选组件"
 order: 33
 ---

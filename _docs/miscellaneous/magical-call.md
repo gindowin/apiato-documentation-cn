@@ -1,5 +1,5 @@
 ---
-title: "Magical Call"
+title: "魔术方法"
 category: "其它杂项"
 order: 1
 ---

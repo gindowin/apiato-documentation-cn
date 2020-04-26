@@ -1,5 +1,5 @@
 ---
-title: "Contribution Guide"
+title: "贡献指南"
 category: "常规内容"
 order: 2
 ---

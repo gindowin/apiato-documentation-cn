@@ -1,5 +1,5 @@
 ---
-title: "Upgrade Guide"
+title: "升级指南"
 category: "常规内容"
 order: 3
 ---

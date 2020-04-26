@@ -1,5 +1,5 @@
 ---
-title: "Containers Installer"
+title: "安装组件"
 category: "其它杂项"
 order: 5
 ---
