@@ -1,5 +1,5 @@
 ---
-title: "Conventions and Principles"
+title: "约定及原则"
 category: "起步"
 order: 7
 ---

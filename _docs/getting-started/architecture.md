@@ -1,5 +1,5 @@
 ---
-title: "Software Architectural Patterns"
+title: "软件架构模式"
 category: "起步"
 order: 6
 ---

@@ -1,8 +1,8 @@
 ---
-title: "欢迎使用 Apiato"
+title: "Apiato 中文文档"
 ---
 
-> **使用 PHP 7.4 和 laravel 7 快速构建你的伟大接口.**
+> **使用 PHP 7.4 和 Laravel 7 快速构建优雅的 API 应用**
 
 ![apiato.jpg]({{ site.baseurl }}/images/image-rounded.png)
 
@@ -19,7 +19,7 @@ title: "欢迎使用 Apiato"
 
 ## Apiato 介绍
 
-**Apiato** is a framework for building scalable and testable API-Centric Applications with PHP, build on top of Laravel.
+**Apiato** 是一款基于 PHP 和 Laravel 技术，用于快速构建可扩展并测试，以 API 为中心的应用框架.
 
 It is designed to help you build scalable API's faster, by providing tools and functionalities that facilitates the development of any API-Centric App.
 
