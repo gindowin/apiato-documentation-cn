@@ -1,6 +1,6 @@
 ---
-title: "Social Authentication"
-category: "Features"
+title: "社交平台认证"
+category: "特性功能"
 order: 6
 ---
 

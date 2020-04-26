@@ -1,6 +1,6 @@
 ---
-title: "Validation"
-category: "Features"
+title: "表单验证"
+category: "特性功能"
 order: 100
 ---
 

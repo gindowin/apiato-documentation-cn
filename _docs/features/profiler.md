@@ -1,6 +1,6 @@
 ---
 title: "Profiler"
-category: "Features"
+category: "特性功能"
 order: 202
 ---
 

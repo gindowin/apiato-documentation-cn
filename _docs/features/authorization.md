@@ -1,6 +1,6 @@
 ---
-title: "Authorization"
-category: "Features"
+title: "用户授权"
+category: "特性功能"
 order: 4
 ---
 

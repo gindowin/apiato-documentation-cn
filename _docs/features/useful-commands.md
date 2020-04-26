@@ -1,6 +1,6 @@
 ---
-title: "Useful Commands"
-category: "Features"
+title: "常用命令行"
+category: "特性功能"
 order: 103
 ---
 

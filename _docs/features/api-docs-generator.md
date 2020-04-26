@@ -1,6 +1,6 @@
 ---
-title: "API Docs Generator"
-category: "Features"
+title: "API 文档生成器"
+category: "特性功能"
 order: 2
 ---
 

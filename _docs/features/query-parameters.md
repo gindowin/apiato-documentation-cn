@@ -1,6 +1,6 @@
 ---
-title: "Query Parameters"
-category: "Features"
+title: "查询参数"
+category: "特性功能"
 order: 10
 ---
 

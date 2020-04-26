@@ -1,6 +1,6 @@
 ---
-title: "Rate Limiting"
-category: "Features"
+title: "请求频率限制"
+category: "特性功能"
 order: 16
 ---
 

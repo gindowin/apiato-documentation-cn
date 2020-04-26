@@ -1,6 +1,6 @@
 ---
-title: "Code Generator"
-category: "Features"
+title: "代码生成器"
+category: "特性功能"
 order: 1
 ---
 

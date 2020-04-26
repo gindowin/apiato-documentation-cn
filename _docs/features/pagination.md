@@ -1,6 +1,6 @@
 ---
-title: "Pagination"
-category: "Features"
+title: "分页"
+category: "特性功能"
 order: 23
 ---
 

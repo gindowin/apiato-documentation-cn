@@ -1,6 +1,6 @@
 ---
-title: "System Settings"
-category: "Features"
+title: "系统参数设置"
+category: "特性功能"
 order: 25
 ---
 

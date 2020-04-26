@@ -1,6 +1,6 @@
 ---
-title: "Localization"
-category: "Features"
+title: "本地化"
+category: "特性功能"
 order: 15
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Payments"
-category: "Features"
+title: "支付"
+category: "特性功能"
 order: 24
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Authentication"
-category: "Features"
+title: "用户认证"
+category: "特性功能"
 order: 3
 ---
 
