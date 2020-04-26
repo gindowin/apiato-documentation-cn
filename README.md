@@ -1,6 +1,6 @@
-# Apiato Documentation
+# Apiato 中文文档
 
-Documentation repository for the [Apiato](https://github.com/apiato/apiato) project, served at [docs.apiato.io](http://docs.apiato.io).
+[Apiato](https://github.com/apiato/apiato) 项目中文文档。
 
 <p align="center">
    <img src="https://github.com/apiato/documentation/blob/master/images/apiato-icon-medium.png" alt="Apiato Logo"/>
