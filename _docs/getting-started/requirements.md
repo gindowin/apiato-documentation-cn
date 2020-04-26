@@ -1,6 +1,6 @@
 ---
-title: "要求"
-category: "起步"
+title: "系统要求"
+category: "Getting Started"
 order: 1
 ---
 
