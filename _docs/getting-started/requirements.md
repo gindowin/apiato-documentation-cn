@@ -1,5 +1,5 @@
 ---
-title: "Requirements"
+title: "要求"
 category: "Getting Started"
 order: 1
 ---
