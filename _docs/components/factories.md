@@ -1,5 +1,5 @@
 ---
-title: "Factories"
+title: "数据工厂"
 category: "可选组件"
 order: 25
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Routes"
+title: "路由"
 category: "核心组件"
 order: 1
 ---

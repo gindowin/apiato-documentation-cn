@@ -1,5 +1,5 @@
 ---
-title: "Middlewares"
+title: "中间件"
 category: "可选组件"
 order: 30
 ---

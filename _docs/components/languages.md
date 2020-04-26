@@ -1,5 +1,5 @@
 ---
-title: "Languages"
+title: "语言包"
 category: "可选组件"
 order: 34
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sub Actions"
+title: "子动作"
 category: "核心组件"
 order: 16
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mails"
+title: "电子邮件"
 category: "可选组件"
 order: 36
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Commands"
+title: "命令行"
 category: "可选组件"
 order: 32
 ---

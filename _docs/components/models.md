@@ -1,5 +1,5 @@
 ---
-title: "Models"
+title: "模型"
 category: "核心组件"
 order: 10
 ---

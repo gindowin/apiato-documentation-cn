@@ -1,5 +1,5 @@
 ---
-title: "Notifications"
+title: "通知"
 category: "可选组件"
 order: 37
 ---

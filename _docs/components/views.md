@@ -1,5 +1,5 @@
 ---
-title: "Views"
+title: "视图"
 category: "核心组件"
 order: 11
 ---

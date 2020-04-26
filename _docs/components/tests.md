@@ -1,5 +1,5 @@
 ---
-title: "Tests"
+title: "测试"
 category: "可选组件"
 order: 21
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Configs"
+title: "配置"
 category: "可选组件"
 order: 31
 ---

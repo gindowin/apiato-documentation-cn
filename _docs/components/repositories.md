@@ -1,5 +1,5 @@
 ---
-title: "Repositories"
+title: "仓库模式"
 category: "可选组件"
 order: 14
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Controllers"
+title: "控制器"
 category: "核心组件"
 order: 2
 ---

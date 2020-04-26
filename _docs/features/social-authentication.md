@@ -1,5 +1,5 @@
 ---
-title: "社交平台认证"
+title: "社会化登陆"
 category: "功能特性"
 order: 6
 ---
