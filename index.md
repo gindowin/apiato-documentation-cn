@@ -181,7 +181,7 @@ For more info contact <a href = "mailto: support@apiato.io">support@apiato.io</a
 <a href="https://opencollective.com/apiato/backer/49/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/backer/49/avatar.svg?requireActive=false"></a>
 
 <a name="Donations"></a>
-### 财务支持
+### 财务赞助
 
 Help us sustain the project.
 
