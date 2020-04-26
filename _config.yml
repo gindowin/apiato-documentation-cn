@@ -65,7 +65,7 @@ defaults:
         type: Marks the impact of this release
 
 categories-order:
- - Getting Started
+ - 起步
  - Features
  - Main Components
  - Optional Components

@@ -1,6 +1,6 @@
 ---
 title: "要求"
-category: "入门起步"
+category: "起步"
 order: 1
 ---
 

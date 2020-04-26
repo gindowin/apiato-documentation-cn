@@ -1,6 +1,6 @@
 ---
 title: "安装"
-category: "入门起步"
+category: "起步"
 order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Requests"
-category: "Getting Started"
+category: "起步"
 order: 4
 ---
 

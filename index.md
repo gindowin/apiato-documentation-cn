@@ -49,7 +49,7 @@ Alternatively, you can build it using the [MVC]({{ site.baseurl }}{% link _docs/
 
 The documentation has 4 sections:
 
-- **Getting Started**: contains mainly the project installation steps.
+- **起步**: contains mainly the project installation steps.
 - **General**: contains few general things to get you started.
 - **Features**: explains how to use each feature of Apiato, and show how it works and how it can be configured to meet your needs.
 - **Components**: explains how, where and why you need to use each component "class". In each component page you will see:
@@ -202,8 +202,8 @@ Join our [Slack](https://slackin-mezlsumyvc.now.sh/) chatting room, by click on 
    <img src="https://s19.postimg.cc/h7pvzy9ar/Slack-i_OS-icon.png" alt="Apiato SLACK"/>
 </a>
 
-<a name="Getting started"></a>
-## Getting started
+<a name="起步"></a>
+## 起步
 
 Install and have fun :) [installation guide]({{ site.baseurl }}{% link _docs/getting-started/installation.md %})
 
