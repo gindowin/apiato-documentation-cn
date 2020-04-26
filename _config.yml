@@ -67,10 +67,10 @@ defaults:
 categories-order:
  - 起步
  - 功能特性
- - Main Components
- - Optional Components
- - Miscellaneous
- - General
+ - 核心组件
+ - 可选组件
+ - 其它杂项
+ - 常规内容
 
 # -----------
 # CloudCannon

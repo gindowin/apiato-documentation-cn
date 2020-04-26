@@ -1,5 +1,5 @@
 ---
-title: "本地化"
+title: "本地化语言"
 category: "功能特性"
 order: 15
 ---

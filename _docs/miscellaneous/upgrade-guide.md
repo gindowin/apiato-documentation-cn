@@ -1,6 +1,6 @@
 ---
 title: "Upgrade Guide"
-category: "General"
+category: "常规内容"
 order: 3
 ---
 

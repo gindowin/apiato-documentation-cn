@@ -1,6 +1,6 @@
 ---
 title: "Postman Environment"
-category: "Miscellaneous"
+category: "其它杂项"
 order: 6
 ---
 

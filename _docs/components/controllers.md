@@ -1,6 +1,6 @@
 ---
 title: "Controllers"
-category: "Main Components"
+category: "核心组件"
 order: 2
 ---
 

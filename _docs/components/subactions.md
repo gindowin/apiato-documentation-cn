@@ -1,6 +1,6 @@
 ---
 title: "Sub Actions"
-category: "Main Components"
+category: "核心组件"
 order: 16
 ---
 

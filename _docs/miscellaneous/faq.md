@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-category: "General"
+category: "常规内容"
 order: 1
 ---
 

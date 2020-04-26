@@ -1,6 +1,6 @@
 ---
 title: "Exceptions"
-category: "Optional Components"
+category: "可选组件"
 order: 15
 ---
 

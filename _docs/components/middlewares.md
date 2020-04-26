@@ -1,6 +1,6 @@
 ---
 title: "Middlewares"
-category: "Optional Components"
+category: "可选组件"
 order: 30
 ---
 

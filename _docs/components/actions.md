@@ -1,6 +1,6 @@
 ---
 title: "Actions"
-category: "Main Components"
+category: "核心组件"
 order: 4
 ---
 - [Definition & Principles](#definition-principles)

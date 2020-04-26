@@ -1,6 +1,6 @@
 ---
 title: "Containers Installer"
-category: "Miscellaneous"
+category: "其它杂项"
 order: 5
 ---
 

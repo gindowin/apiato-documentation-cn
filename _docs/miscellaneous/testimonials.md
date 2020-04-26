@@ -1,6 +1,6 @@
 ---
 title: "Testimonials"
-category: "General"
+category: "常规内容"
 order: 90
 ---
 
