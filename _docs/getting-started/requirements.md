@@ -1,5 +1,5 @@
 ---
-title: "系统要求"
+title: "Requirements"
 category: "Getting Started"
 order: 1
 ---
