@@ -4,8 +4,8 @@ category: "功能特性"
 order: 2
 ---
 
-- [Requirements](#requirements)
-- [Usage](#usage)
+- [系统要求](#requirements)
+- [用法](#usage)
     - [1 - Write a PHP **docblock** on top of your endpoint like this:](#1---write-a-php-docblock-on-top-of-your-endpoint-like-this)
     - [2 - Run the documentations generator command from the root directory:](#2---run-the-documentations-generator-command-from-the-root-directory)
     - [3 - Visit this URL's as shown in your terminal:](#3---visit-this-urls-as-shown-in-your-terminal)
@@ -26,7 +26,7 @@ Apiato make writing and generating documentations very easy with the `php artisa
 
 <a name="requirements"></a>
 
-## Requirements
+## 系统要求
 
 - Install the [ApiDocJs](http://apidocjs.com/) tool, the project directory
     - (`npm install apidoc`)
@@ -35,7 +35,7 @@ Apiato make writing and generating documentations very easy with the `php artisa
 
 <a name="usage"></a>
 
-## Usage
+## 用法
 
 <a name="write-a-php-docblock-on-top-of-your-endpoint"></a>
 

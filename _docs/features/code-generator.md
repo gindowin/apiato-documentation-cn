@@ -4,16 +4,16 @@ category: "功能特性"
 order: 1
 ---
 
-- [Introduction](#introduction)
-- [Available Code Generator Commands](#available-code-generators)
-- [Demo](#demo)
+- [简介](#introduction)
+- [可用命令](#available-code-generators)
+- [实例](#demo)
 - [Custom Code Stubs](#custom-stubs)
-- [Contributing](#contributing)
-- [For AngularJS 2 Users](#for-angularjs-users)
+- [贡献代码](#contributing)
+- [AngularJS 2 用户](#for-angularjs-users)
 
 <a name="introduction"></a>
 
-## Introduction
+## 简介
 
 Code Generators are a nice way to speed up development by creating boiler-plate code based on your inputs. You may
 already be familiar with the Laravel code generators (`php artisan make:controller`). 
@@ -22,7 +22,7 @@ Apiato code generator works the same way. And in addition it can generate a full
 
 
 <a name="available-code-generators"></a>
-## Available Code Generator Commands
+## 可用命令
 
 To see the list of code generators type `php artisan`.
 
@@ -67,7 +67,7 @@ to generate something for).
 
 <a name="demo"></a>
 
-## Demo
+## 实例
 
 <a name="generating-a-route-endpoint-file"></a>
 
@@ -103,13 +103,13 @@ this would read your specific `config.stub` file instead the pre-defined one!
 
 
 <a name="contributing"></a>
-## Contributing
+## 贡献代码
 
 If you would like to add your own generators, please check out the [Contribution Guide]({{ site.baseurl }}{% link _docs/miscellaneous/contribution.md %}).
 
 
 
 <a name="for-angularjs-users"></a>
-## For AngularJS 2 Users
+## AngularJS 2 用户
 
 Checkout this awesome [CRUD Containers generator package](https://github.com/llstarscreamll/Crud) for Angular 2.4+.
