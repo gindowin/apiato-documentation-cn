@@ -211,4 +211,4 @@ Apiato 具有以下惊艳的特性
 <a name="Testimonials"></a>
 ## 用户评价
 
-> 阅读部分 <**[用户评价]({{ site.baseurl }}{% link _docs/miscellaneous/testimonials.md %})**>
+> 阅读部分 **[用户评价]({{ site.baseurl }}{% link _docs/miscellaneous/testimonials.md %})**
