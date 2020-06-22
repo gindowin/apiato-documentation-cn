@@ -2,7 +2,7 @@
 title: "Apiato 中文文档"
 ---
 
-> **使用 PHP 7.4 和 Laravel 7 快速构建优雅的 API 应用**
+> **使用 PHP 7.4 和 Laravel 7 快速构建你的 API 应用**
 
 ![apiato.jpg]({{ site.baseurl }}/images/image-rounded.png)
 
@@ -19,51 +19,49 @@ title: "Apiato 中文文档"
 
 ## Apiato 介绍
 
-**Apiato** 是一款基于 PHP 和 Laravel 技术，用于快速构建可扩展、可测试并以 API 为核心的应用框架.
+**Apiato** 是一款基于 PHP 和 Laravel 技术，用于快速构建易扩展、易测试并以 API 为核心的应用框架。
 
-It is designed to help you build scalable API's faster, by providing tools and functionalities that facilitates the development of any API-Centric App.
+它旨在帮您更快地构建可伸缩的 API 应用，通过提供特性功能和工具，加速以 API 为核心的应用程序开发。
 
-Apiato uses the best frameworks, tools and conventions in a very creative way, to deliver a rich set of features for a modern PHP Application.
+Apiato 用最好的框架、工具和编程约定，以极具创意的方式，为现代化 PHP 应用程序提供丰富的功能。
 
-**Why!?** Because setting up a solid API from scratch is time consuming (and of course, time is money!).
-Apiato gives you the core features of robust API's fully documented, for free; so you can focus on writing your business logic, thus deliver faster to your clients.
+**为什么?** 因为从头开始建立一套有效的 API 是非常耗时的，时间就是金钱。Apiato 提供了一套实现健壮 API 的免费方案，因此您只需专注开发业务逻辑，从而实现更快地交付。
 
 ### 功能特性
 
-Apiato comes with an amazing list of features.
+Apiato 具有以下惊艳的特性
 
 ![]({{ site.baseurl }}/images/features.png)
 
 ## 软件架构
 
-**Apiato** is built using the new architectural pattern **[Porto](https://github.com/Mahmoudz/Porto)**.
+**Apiato** 采用先进的软件构架模式 **[Porto](https://github.com/Mahmoudz/Porto)**。
 
-**Porto SAP** is a modern Software Architectural Pattern, designed to help developers organize their Code in a super maintainable way. It is very helpful for big and long term projects, as they tend to have higher complexity with time.
+**Porto SAP** 是一种现代软件架构模式，旨在帮助开发人员以一种极易维护的方式进行编码。这对大型项目非常有用，因为它们往往更复杂性。
 
-It's completely **optional** to build your application using the Porto architecture.
-Alternatively, you can build it using the [MVC]({{ site.baseurl }}{% link _docs/getting-started/architecture.md %}) architecture, and still benefit from all the features of Apiato.
+但使用 Porto 架构**不是必须**的。即便是使用 [MVC]({{ site.baseurl }}{% link _docs/getting-started/architecture.md %}) 软件架构，你仍然会在 Apiato 中受益。
 
 
 
 ### 快速预览本文档
 
-The documentation has 4 sections:
+这份文档有 4 个部分：
 
-- **起步**: contains mainly the project installation steps.
-- **常规内容**: contains few general things to get you started.
-- **功能特性**: explains how to use each feature of Apiato, and show how it works and how it can be configured to meet your needs.
-- **组件**: explains how, where and why you need to use each component "class". In each component page you will see:
-  * **Definition**: what is the the component and what it's role.
-  * **Principles**: the general principles of the component, which could be applied to any programming language.
-  * **Rules**: how to apply the component principles in Apiato (a PHP/Laravel project), to ensure a smooth operation.
-  * **Folder Structure**: the folder structure, that shows where to place your component.
-  * **Code Sample**: a boilerplate to show how to write and use the component.
-  * **Misc**: things related to the component, like configurations and other stuff you might need while coding.
+- **起步**: 主要介绍安装步骤。
+- **常规内容**: 包含一些基础内容，帮助你起步。
+- **功能特性**: 介绍如何使用 Apiato 的各项功能，说明它是如何工作和配置的，以满足你的需求。
+- **组件**: 说明使用每个组件“类”的使用方法、使用位置和原因。在每个组件页面中，您将看到：
+  * **定义**: 什么是组件，它的角色是什么。
+  * **原则**: 组件的一般原则，可应用于任何编程语言。
+  * **规则**: Apiato 中应用组件的规则，以确保其顺利运行。
+  * **目录结构**: 显示组件位置的目录结构。
+  * **实例**: 编写和使用组件的样板案例。
+  * **其它**: 在编码时可能需要，与组件相关的东西，如配置等。
 
 
 ### 约定
 
-> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 [[RFC2119](http://tools.ietf.org/html/rfc2119)].
+> 本文件中的关键词“必须”、“不得”、“必需”、“应”、“不得”、“应”、“不应”、“不应”、“推荐”、“可”和“可选”等，请参照 [[RFC2119](http://tools.ietf.org/html/rfc2119)]。
 
 <a name="Sponsors"></a>
 ## 赞助商
@@ -119,12 +117,11 @@ The documentation has 4 sections:
 <a href="https://opencollective.com/apiato/sponsor/48/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/sponsor/48/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/apiato/sponsor/49/website?requireActive=false" target="_blank"><img src="https://opencollective.com/apiato/sponsor/49/avatar.svg?requireActive=false"></a>
 
-Sponsor Apiato with your [organization](https://opencollective.com/apiato/contribute/).
+通过 [企业或组织](https://opencollective.com/apiato/contribute/) 赞助 Apiato 项目。
 <br>
-Your logo will show up on the [github repository](https://github.com/apiato/apiato/) index page and the [documentation](http://apiato.io/) main page.
+你的品牌会被展示在 [github repository](https://github.com/apiato/apiato/) 和 [documentation](http://apiato.io/) 主页。
 <br>
-For more info contact <a href = "mailto: support@apiato.io">support@apiato.io</a>.
-
+需要了解更多请联系 <a href = "mailto: support@apiato.io">support@apiato.io</a>。
 
 <a name="Backers"></a>
 ## 支持者
@@ -183,20 +180,20 @@ For more info contact <a href = "mailto: support@apiato.io">support@apiato.io</a
 <a name="Donations"></a>
 ### 财务赞助
 
-Help us sustain the project.
+帮助我们维护此项目。
 
-<b>Option 1:</b> Donate via [Paypal](https://paypal.me/mzmmzz).
+<b>选项 1:</b> 使用 [Paypal](https://paypal.me/mzmmzz) 捐助。
 <br>
-<b>Option 2:</b> Become a [Github Sponsors](https://github.com/sponsors/Mahmoudz).
+<b>选项 2:</b> 成为一个 [Github Sponsors](https://github.com/sponsors/Mahmoudz)。
 <br>
-<b>Option 3:</b> Become a Sponsor/Backer via [Open Collective](https://opencollective.com/apiato/contribute).
+<b>选项 3:</b> 成为一个 [Open Collective](https://opencollective.com/apiato/contribute)。
 <br>
-<b>Option 4:</b> Become a [Patreon](https://www.patreon.com/zalt).
+<b>选项 4:</b> 成为一个 [Patreon](https://www.patreon.com/zalt)。
 
 <a name="Chat"></a>
 ### 联系我们
 
-Join our [Slack](https://slackin-mezlsumyvc.now.sh/) chatting room, by click on the Slack icon below.
+点击下面的图标，加入到我们的 [Slack](https://slackin-mezlsumyvc.now.sh/) 聊天室。
 
 <a href="https://slackin-mezlsumyvc.now.sh/">
    <img src="https://s19.postimg.cc/h7pvzy9ar/Slack-i_OS-icon.png" alt="Apiato SLACK"/>
@@ -205,7 +202,7 @@ Join our [Slack](https://slackin-mezlsumyvc.now.sh/) chatting room, by click on 
 <a name="起步"></a>
 ## 起步
 
-Install and have fun :) [installation guide]({{ site.baseurl }}{% link _docs/getting-started/installation.md %})
+安装并享用 ：） [安装指南]({{ site.baseurl }}{% link _docs/getting-started/installation.md %})
 
 <!--**LTS (Long-Term Support)** release is available. And offers support for 12 months, after the release date.-->
 <!--The current LTS version is **7.2** (Release date 2017-11-11).-->
@@ -214,4 +211,4 @@ Install and have fun :) [installation guide]({{ site.baseurl }}{% link _docs/get
 <a name="Testimonials"></a>
 ## 用户评价
 
-> Read the < **[feedbacks]({{ site.baseurl }}{% link _docs/miscellaneous/testimonials.md %})** > of some Apiato users.
+> 阅读部分 <**[用户评价]({{ site.baseurl }}{% link _docs/miscellaneous/testimonials.md %})**>
